@@ -9,7 +9,7 @@ This project requires Python3 and the requets package.
 
 ```
 pipenv install
-pipenv run "python find_meteors.py"
+pipenv run "python meteors/find_meteors.py"
 ```
 ## if pipenv install fails: try sudo apt-get install -y python3-dev
 ## followed by pip3 install setuptools
